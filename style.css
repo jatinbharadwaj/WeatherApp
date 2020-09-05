@@ -1,3 +1,26 @@
 h1{
     font-size: 80px;
+    font-weight: bolder;
+    color: white;
+    text-shadow: 2px 5px rgba(0, 0, 0, 0.6);
+}
+
+body{
+    background-image:url('https://wallpaperaccess.com/full/2462441.jpg');
+}
+
+.city,
+.date,
+.temp,
+.limit{
+    font-size: 55px;
+    font-weight: 800;
+    color: white;
+    text-shadow: 2px 5px rgba(0, 0, 0, 0.6);
+}
+
+.date,
+.limit{
+    font-size:20px;
+    text-shadow: 2px 3px rgba(0, 0, 0, 0.6);
 }
